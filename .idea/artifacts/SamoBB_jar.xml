@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SamoBB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SamoBB_jar</output-path>
+    <root id="archive" name="SamoBB.jar">
+      <element id="module-output" name="SamoBB" />
+    </root>
+  </artifact>
+</component>
